@@ -1,12 +1,14 @@
 ! -------------------------------------------------------------------------------------------------
 ! Version: 1.0.0
-! LAPOS_VERSION EQUATE('1.0.0')
-! T�picamente incluir este archivo en "Before Global INCLUDE"
+! 
+! Incluir este archivo en "Before Global INCLUDE"
 !
-! Gustavo Saracca (c) 2009-2026
+! Gustavo Saracca (c) 2007-2026
 !
 ! INCLUDE : LAPOS
 ! -------------------------------------------------------------------------------------------------
+
+LAPOS_VERSION EQUATE('1.0.0')
 
     pragma( 'link(..\lapos\lapos.lib)' )
     map
