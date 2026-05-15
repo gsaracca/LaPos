@@ -1,4 +1,4 @@
-# LaPos — Wrapper DLL para POS Integrado Ingenico
+# LaPos — Wrapper DLL para POS Integrado
 
 Biblioteca dinámica (DLL) escrita en Delphi que actúa como capa de integración entre una aplicación host (típicamente Clarion) y terminales POS Ingenico que implementan el protocolo **IngStore / VPI PC** con la aplicación VISA de POS Integrado.
 
