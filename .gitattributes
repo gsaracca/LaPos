@@ -3,3 +3,4 @@
 *.dpk  linguist-language=Delphi
 *.dfm  linguist-language=Delphi
 *.inc  linguist-language=Delphi
+vpipc.c linguist-documentation=true
