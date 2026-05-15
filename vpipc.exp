@@ -1,0 +1,16 @@
+EXPORTS
+  vpiBatchClose @1
+  vpiClosePort @2
+  vpiGetBatchCloseData @3
+  vpiGetIssuer @4
+  vpiGetLastTrxData @5
+  vpiGetPlan @6
+  vpiGetVersion @7
+  vpiOpenPort @8
+  vpiPrintBatchClose @9
+  vpiPrintTicket @10
+  vpiPurchase @11
+  vpiRefund @12
+  vpiRefundVoid @13
+  vpiTestConnection @14
+  vpiVoid @15

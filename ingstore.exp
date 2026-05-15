@@ -1,0 +1,6 @@
+NAME 'INGSTORE' GUI
+EXPORTS
+  OpenPort 		@?
+  ClosePort 	@?
+  SendCmd 		@?
+  
