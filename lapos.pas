@@ -1,5 +1,8 @@
 unit lapos;
 
+// Version: 1.0.0
+const LAPOS_VERSION = '1.0.0';
+
 interface
 
 uses

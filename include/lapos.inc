@@ -1,5 +1,7 @@
 ! -------------------------------------------------------------------------------------------------
-! Típicamente incluir este archivo en "Before Global INCLUDE" 
+! Version: 1.0.0
+! LAPOS_VERSION EQUATE('1.0.0')
+! Tï¿½picamente incluir este archivo en "Before Global INCLUDE"
 !
 ! Gustavo Saracca (c) 2009-2026
 !

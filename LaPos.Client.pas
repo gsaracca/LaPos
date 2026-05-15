@@ -28,6 +28,9 @@ interface
 // ---------------------------------------------------------------------------
 
 const
+  /// <summary>Versión de la biblioteca LaPos.</summary>
+  LAPOS_VERSION      = '1.0.0';
+
   /// <summary>Operación exitosa.</summary>
   VPI_OK             = 0;
   /// <summary>Operación exitosa, pero quedan más registros por leer.</summary>
